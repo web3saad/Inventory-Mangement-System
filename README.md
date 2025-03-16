@@ -24,8 +24,8 @@ AI Inventory Management is a smart inventory tracking system that leverages arti
 To get started with the AI Inventory Management system, follow these steps:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/GopiPrajapath/ai-inventory-management.git
-   cd ai-inventory-management
+  git clone https://github.com/web3saad/Inventory-Mangement-System.git
+
    ```
 2. **Install Frontend Dependencies**:
    - Navigate to the frontend directory and install the necessary packages:
